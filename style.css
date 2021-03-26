@@ -1,0 +1,18 @@
+#submit{
+width: 30px;
+height: 40px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+#sort{
+    display: none;
+    width: 30px;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    }
+
+    input{
+    margin: 10px;
+    }
